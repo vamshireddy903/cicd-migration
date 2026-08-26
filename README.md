@@ -1,5 +1,3 @@
-# DevOps Shack
-
 ## CI/CD Pipeline Migration Lab
 
 ### Jenkins → GitHub Actions → Amazon ECR → Amazon EC2
