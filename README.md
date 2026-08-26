@@ -533,13 +533,4 @@ After completing this **DevOps Shack** project, you should be able to explain an
 
 ---
 
-## About DevOps Shack
 
-**DevOps Shack** creates practical, production-oriented learning content across DevOps, DevSecOps, cloud, containers, Kubernetes, Terraform, GitOps, observability and AI for DevOps.
-
-- Website: [devopsshack.com](https://devopsshack.com)
-- GitHub: [github.com/jaiswaladi246](https://github.com/jaiswaladi246)
-
-### Built for the DevOps community by DevOps Shack
-
-**Learn. Build. Automate.**
