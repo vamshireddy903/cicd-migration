@@ -288,14 +288,14 @@ curl http://localhost:8080/health
 Build the image:
 
 ```bash
-docker build -t devopsshack/migration-demo:local .
+docker build -t cicd-migration:v1 .
 ```
 
 Start the container:
 
 ```bash
 docker run --rm --name migration-demo -p 8081:8080 \
-  devopsshack/migration-demo:local
+   cicd-migration:v1
 ```
 
 Verify it:
