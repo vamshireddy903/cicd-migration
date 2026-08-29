@@ -95,3 +95,13 @@ Also add AmazonEC2ContainerRegistryPowerUser permission and cerate OIDC role
 Since IAM roles attach to EC2 via an instance profile:
 
 Console: EC2 → Instances → select instance → Actions → Security → Modify IAM role → choose EC2-CICD-InstanceRole → Update IAM role 
+
+# Add Repository Variables in GitHub  
+
+GitHub repo → Settings → Secrets and variables → Actions → Variables tab → New repository variable
+
+<img width="717" height="176" alt="image" src="https://github.com/user-attachments/assets/6d5c6bfc-ca68-4a96-8002-1a298639cd55" />
+
+
+<img width="846" height="648" alt="image" src="https://github.com/user-attachments/assets/095a944c-6dab-4fa0-8c5e-82529597e8bc" />
+
